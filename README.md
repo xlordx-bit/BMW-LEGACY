@@ -1,12 +1,36 @@
-# React + Vite
+# 🚗 BMW Legacy – Premium Automotive Web Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BMW Legacy is a modern, animated single-page website built using **React.js** and **SCSS**, inspired by the premium design language of BMW. It showcases the history, legacy, and innovation behind one of the world's most iconic automotive brands.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ⚡ Fully responsive design
+- 🎞️ Smooth animations and transitions
+- 🖼️ Hero section with high-resolution visuals
+- 🚘 Sections for BMW heritage, design, innovation, and models
+- 🎨 Styled with SCSS for clean and modular design
+- 📱 Mobile-friendly layout
+- 🌙 Dark-themed aesthetic inspired by BMW's luxury brand identity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| React.js   | Frontend framework |
+| SCSS       | Styling with modularity and nesting |
+| React Router | Navigation between sections (if multi-page) |
+| Framer Motion (optional) | For advanced animations |
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/bmw-legacy.git
+cd bmw-legacy
+npm install
+npm start
